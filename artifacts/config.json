@@ -1,0 +1,17 @@
+{
+  "model_name": "Stacked ensemble (RF + XGBoost + SVM -> Logistic Regression)",
+  "features": [
+    "distance_from_home",
+    "distance_from_last_transaction",
+    "ratio_to_median_purchase_price",
+    "repeat_retailer",
+    "used_chip",
+    "used_pin_number",
+    "online_order"
+  ],
+  "caps": {
+    "distance_from_home": 177.0,
+    "distance_from_last_transaction": 40.0,
+    "ratio_to_median_purchase_price": 13.0
+  }
+}

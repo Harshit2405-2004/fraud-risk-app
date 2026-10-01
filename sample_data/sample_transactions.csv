@@ -1,0 +1,5 @@
+distance_from_home,distance_from_last_transaction,ratio_to_median_purchase_price,repeat_retailer,used_chip,used_pin_number,online_order,fraud
+4.0,0.5,0.9,1,1,1,0,0
+8.0,1.0,1.1,1,0,0,1,0
+150.0,25.0,7.0,0,0,0,1,1
+2.0,0.2,0.5,1,1,0,0,0
