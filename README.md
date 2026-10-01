@@ -1,6 +1,6 @@
 # 🛡️ Credit-Card Fraud Risk Analyzer
 
-**Live demo:** _paste your Streamlit URL here_
+**Live demo:**[ Fraud-Risk-Analyzer ](https://fraud-risk-analyzer.streamlit.app/)
 
 An end-to-end machine-learning project: exploratory analysis → preprocessing → model comparison →
 deployed interactive web app.
